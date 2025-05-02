@@ -1,5 +1,3 @@
-# 6to4-GRE6
-تانل برپایه ipv6 لوکال توسط  6to4-GRE6 پرسرعت  
 
   </p> 
 <p align="center">
